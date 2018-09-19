@@ -1,6 +1,6 @@
-# Assignment 1 - Webmail Inbox of Games
+# Assignment 1 - Webmail
 
-Using plain Javascript, this assignment requires you to use template literals, access/change the DOM, event handling and object/arrays methods. Your mark counts for 15% of your final grade.
+Using plain Javascript, this assignment requires you to use template literals, access/change the DOM, event handling and object/arrays methods and fetching JSON data. Your mark counts for 12% of your final grade.
 
 Due Date: Friday, Oct. 10 2018 @ 11:59 pm
 
